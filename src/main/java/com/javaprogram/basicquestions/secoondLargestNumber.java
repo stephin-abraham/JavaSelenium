@@ -6,7 +6,7 @@ import java.util.List;
 
 public class secoondLargestNumber {
     public static void main(String[] args) {
-        List<Integer> l= new ArrayList<>();
+        List<Integer> l= new ArrayList<Integer>();
         l.add(34);
         l.add(1);
         l.add(78);

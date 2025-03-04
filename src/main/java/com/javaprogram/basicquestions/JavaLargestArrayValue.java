@@ -1,6 +1,6 @@
 package com.javaprogram.basicquestions;
 
-public class JavaLargestArrayValue {
+public class    JavaLargestArrayValue {
     public static void main(String[] args) {
         int[] arr = {64, 1, 2, 515, 3};
         // Initialize min and max to the first element of the array

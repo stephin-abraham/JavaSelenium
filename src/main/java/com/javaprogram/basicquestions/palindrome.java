@@ -1,6 +1,6 @@
 package com.javaprogram.basicquestions;
 
-public class palindrome {
+public class    palindrome {
     public static void Palindrome(int n){
         int remainder, reverseNum=0, originalNum;
         originalNum = n;
