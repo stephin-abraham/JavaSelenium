@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 public class hashSetExample {
     public static void main(String[] args) {
-//      HashSet trenset, LinkedBashaet implemente Set interface
+//      HashSet treeset, Linkedat implemente Set interface
 //        does not accept duplicate values
 //         There is no guarantee elements stored in sequential order. Random order
 
